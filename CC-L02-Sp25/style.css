@@ -1,8 +1,14 @@
 body{
-  background-color:#AAA80A
+  background-color:#008080;
+  text-align: center;
 }
 
 #sky{
   position:relative;
-  left:100ox:
+  left:100px;
+}
+
+#mylink{
+  position:relative;
+  top:20px;
 }
